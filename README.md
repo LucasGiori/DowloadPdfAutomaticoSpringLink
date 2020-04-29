@@ -12,7 +12,7 @@ Arquivo pyhton que faz o scraping da página e salva o PDF
 1. *requests*
 2. *lxmL*
 3. *bs4*
-### Comando para dowload através do PIP
+### Comando para dowload de bibliotecas python através do PIP
 #### 1. pip install requests
 #### 2. pip install lxml
 #### 3. pip install bs4
