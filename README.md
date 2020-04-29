@@ -9,8 +9,8 @@ No arquivo lista.txt é onde vai os link da paginá de apresentação do materia
 Arquivo pyhton que faz o scraping da página e salva o PDF
 
 # Bibliotecas Utilizadas
-requests,lxml,bs4 \n
-*Comando para dowload através do PIP*
-pip install requests
-pip install lxml
-pip install bs4
+requests,lxml,bs4 
+# Comando para dowload através do PIP
+*pip install requests*
+*pip install lxml*
+*pip install bs4*
